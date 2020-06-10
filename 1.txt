@@ -1,0 +1,14 @@
+Program Hasil Perkalian Nilai
+
+START
+INPUT "a"
+INPUT "b"
+INPUT "c"
+
+STORE "a" with any value 
+STORE "b" with any value 
+STORE "c" with any value 
+
+CALCULATE "a" times "b" times "c"
+DISPLAY the result of calculation
+END

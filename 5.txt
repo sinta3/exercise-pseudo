@@ -1,0 +1,11 @@
+Looping 10X
+
+START
+INPUT "a" equal to 1.
+FOR "a" < 10 
+    IF "a" modulo 2 equal to 0 THEN 
+        DISPLAY "genap"
+    ELSE
+        DISPLAY "ganjil"
+    add "a" + 1
+END

@@ -1,0 +1,9 @@
+Perulangan saya senang 100 kali
+
+START 
+INPUT "a" equal to 1. 
+WHILE "a" < 100 
+    DISPLAY "Saya Senang"
+    add "a" + 1.
+
+END

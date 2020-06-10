@@ -1,0 +1,17 @@
+Raport
+
+START
+INPUT "nilai"
+STORE "nilai" with any value
+
+IF "nilai" > 80 THEN 
+    DISPLAY "get A"
+ELSE IF "nilai" < 80 and "nilai" > 70 
+    DISPLAY "get B"
+ELSE IF "nilai" < 70 and "nilai" > 60 
+    DISPLAY "get C"
+ELSE IF "nilai" < 60 and "nilai" > 50 
+    DISPLAY "get D"
+ELSE "nilai" < 50
+    DISPLAY "get E"
+END

@@ -1,0 +1,12 @@
+Program luas persegi 
+
+START
+INPUT "a"
+INPUT "b"
+
+STORE "a" with value of the square side that you want to input
+STORE "b" with value of the square side that you want to input
+
+CALCULATE "a" times "b"
+DISPLAY the result of calculation
+END
